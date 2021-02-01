@@ -1,16 +1,3 @@
-
-
-<!--
-**aurok11/aurok11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on:
-- 🌱 I’m currently learning:
-- 👯 I’m looking to collaborate on:
-- 🤔 I’m looking for help with:
-- 💬 Ask me about:
-- 📫 How to reach me:
-- 😄 Pronouns:
-- ⚡ Fun fact:
--->
+- 🔭 I’m currently working on: [Soulgraphy.me](https://soulgraphy.me)
+- 🌱 I’m currently learning: JS, HTML, CSS
+- 📫 How to reach me: [Arkapaweszol@gmail.com](mailto:arkapaweszol@gmail.com) GPG: [0x5CE7FB088C512372](KEY.asc)
